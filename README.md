@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kwooz
+- 👋 Hi, I’m @kwoozy
 - Interested in data mining, text mining published literature
 - 🌱 I’m currently learning --everything--
 
